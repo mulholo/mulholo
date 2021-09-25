@@ -5,7 +5,7 @@
 ## Hey friends :)
 
 I'm James. I'm a product-focused software engineer based in London.
-Currently, I'm focused on teaching the world languages at [Memrise](https://memrise.com/), making devs type faster with [TypePerf.com](https://typeperf.com), and learning in public on my [personal website](https://jmulholland.com/).
+Currently, I'm focused on making the world's best CRM at [Attio](https://attio.com/), making devs type faster with [TypePerf.com](https://typeperf.com), and learning in public on my [personal website](https://jmulholland.com/).
 
 #### Some assorted things I like
 
