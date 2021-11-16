@@ -1,6 +1,6 @@
 ![Hi, I'm James](https://readme-typing-svg.herokuapp.com?font=monaco&color=1D4A7D&size=36&vCenter=true&lines=Hi%2C+I'm+James)
 
-[Twitter](https://twitter.com/mulholio) • [Personal Site](https://jmulholland.com/) • [LinkedIn](https://www.linkedin.com/) • `james at jmulholland dot com` • he/him
+[Twitter](https://twitter.com/mulholo) • [Personal Site](https://jmulholland.com/) • [LinkedIn](https://www.linkedin.com/in/mulholio) • `james at jmulholland dot com` • he/him
 
 ## Hey friends :)
 
