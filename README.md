@@ -1,18 +1,9 @@
-![Hi, I'm James](https://readme-typing-svg.herokuapp.com?font=monaco&color=1D4A7D&size=36&vCenter=true&lines=Hi%2C+I'm+James)
+[Newsletter](https://productengineered.com/) • [Twitter](https://twitter.com/mulholo) • [Personal Site](https://jmulholland.com/) • [LinkedIn](https://www.linkedin.com/in/mulholio) • `james at jmulholland dot com`
 
-[Twitter](https://twitter.com/mulholo) • [Personal Site](https://jmulholland.com/) • [LinkedIn](https://www.linkedin.com/in/mulholio) • `james at jmulholland dot com` • he/him
+Product engineer based in London.
 
-## Hey friends :)
+Currently:
 
-I'm James. I'm a product-focused software engineer based in London.
-Currently, I'm focused on making the world's best CRM at [Attio](https://attio.com/), making devs type faster with [TypePerf.com](https://typeperf.com), and learning in public on my [personal website](https://jmulholland.com/).
-
-#### Some assorted things I like
-
-- TypeScript (my favourite language)
-- React (my favourite library)
-- Node.js (my favourite way to build a backend)
-- Python (for learning AI and for small code projects)
-- Functional UI (λ)
-- Functional UI (happy users)
-- Philosophy (which led me to programming via Logic)
+* Writing about product engineering at [productengineered.com](https://www.productengineered.com/)
+* Increasing shareholder value by building AI agents for [Attio](https://attio.com)
+* Writing misc. notes on my [personal website](https://jmulholland.com/)
